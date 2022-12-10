@@ -1,0 +1,2 @@
+# BitBit
+Florian, Philipp, Jacky
